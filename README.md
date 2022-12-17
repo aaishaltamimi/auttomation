@@ -1,9 +1,2 @@
-# auttomation
-# auttomation
-# auttomation
-# auttomation
-# auttomation
-# auttomation
-# auttomation
-# auttomation
-# auttomation
+# the first time i start the repo
+
